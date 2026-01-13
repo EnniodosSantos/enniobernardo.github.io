@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileimage2.jpeg"
   name             : "Ennio dos Santos"
   pronouns         : # example: "she/her"  
   bio              : "Estudante de Ciência de Dados com foco em análise de dados operacionais e industriais, atuando na transformação de dados em indicadores para apoio à tomada de decisão."
