@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ennio dos Santos / Portifólio Ennio dos Santos"
+title                    : "Página de Ennio dos Santos"
 title_separator          : "-"
 name                     : &name "Ennio dos Santos"
 description              : &description "Ennio dos Santos's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ennio dos Santos"
   pronouns         : # example: "she/her"  
   bio              : "Estudante de Ciência de Dados com foco em análise de dados operacionais e industriais, atuando na transformação de dados em indicadores para apoio à tomada de decisão."
   location         : "Belém"
