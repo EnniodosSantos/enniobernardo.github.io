@@ -14,8 +14,6 @@ Estudante de Ciência de Dados com domínio em ferramentas como Python (Pandas, 
 Educação
 ======
 * **Ciência de Dados**, UFMS (06/2024 - 01/2025).
-* **Curso Interdisciplinar**, (02/2023 - 02/2024), Belém-PA.
-* **Formação Acadêmica**, (02/2019 - 07/2022).
 
 Experiência Profissional
 ======
