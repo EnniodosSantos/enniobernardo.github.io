@@ -14,7 +14,7 @@ Bem-vindo ao meu portfólio profissional. Sou um profissional movido pela transf
 
 ---
 
-### 🔍 O que eu faço (My Stand: The Architect)
+### 🔍 O que eu faço
 Acredito que a verdade de um negócio está escondida nos dados. O meu trabalho é extrair essa essência, estruturando informações para que as decisões sejam tomadas com segurança.
 
 * **Análise e Tratamento de Dados:** Especialista em Python (Pandas, NumPy, Scikit-learn) e SQL para processar grandes volumes de dados
